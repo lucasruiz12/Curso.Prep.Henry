@@ -1,0 +1,20 @@
+Variables: para programar de una manera más cómoda y prolija, existen las variables, que son expresiones (pueden ser palabras)
+a las cuales les damos un valor o una información determinada.
+Al llamarse VARIABLE significa que puede cambiar su valor o información.
+
+Strings: se escriben entre comillas '' y se utilizan para darle a una variable una información determinada a modo de
+texto, palabras, caracteres, etc. (no así el caso de darle un valor numérico)
+
+Funciones (argumentos, return): una función es la que recibe información sobre lo que debe hacer y queda guardada y
+disponible para ser ejecutada cuando uno lo desee. Podría entenderse como una variable más grande pero más compleja.
+Los argumentos son las variables propias de cada función. Tienen valor determinado y se los definen en la función.
+La palabra return (retornar en inglés) es la que le dice a la computadora que nos regrese algo (valor, información, etc.)
+luego de ejecutar la función
+
+Declaraciones if: lo denominamos "condicional". Su traducción del inglés es "si" y sirve para expresar condiciones
+que nos indican si debemos ejecutar o no algo. A fines cotidianos, nosotros solemos pensarlo de la forma:
+SI (if) pasa tal cosa, entonces sucede tal otra cosa. Existe un SINO (else) para seguir ejecutando la función.
+
+Valores booleanos: son las palabras true y false (verdadero y falso en su traducción al español). 
+Estas palabras no pueden ser consideradas variables. 
+Sirven para indicarle a la computadora cuando ejecutar o no una acción.
