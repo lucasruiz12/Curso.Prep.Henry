@@ -1,0 +1,15 @@
+Objetos = los objetos son contenedores de datos. Nos sirven para poder tener información sobre cada dato.
+A diferencia de las matrices en las cuáles necesitábamos el orden para acceder a cada elemento, en los objetos vamos
+a darle nombre a cada elemento para poder acceder. De ese modo es más sencillo.
+
+Propiedades = llamamos propiedades a los elementos propios (valga la redundancia) de cada objeto.
+
+Métodos = llamamos métodos a las funciones que son propias de cada objeto. Si un objeto tiene una propiedad dentro,
+hablaremos de métodos
+
+Bucle for..in = mismo caso que el FOR, solo que vamos a especificar a un objeto determinado para aplicarlo.
+Cuando no lleva in, es como si el bucle dijese "for ... in LOOP".
+
+Notación de puntos vs. notación de corchetes = ambas simbolizan lo mismo. La notación de puntos es más fácil de utilizar
+ya que hay que tipear menos cosas. La notación de corchetes, en cambio, sirve para utilizar en casos determinados en los
+cuales también aparezcan variables, propiedades o funciones que puedan generar confusión al leer.
