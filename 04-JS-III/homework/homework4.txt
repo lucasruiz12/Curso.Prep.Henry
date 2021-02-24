@@ -1,0 +1,2 @@
+Arrays = (arreglo en español) son listas con varios elementos. Podría entenderse como una variable más grande
+que contiene una lista de elementos (hasta ahora veíamos que las variables tenían un solo elemento).
