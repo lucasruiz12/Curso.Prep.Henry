@@ -1,0 +1,11 @@
+for = utilizamos for ("para" en español) con el fin de hacer un bucle (algo que se repite hasta que nosotros le digamos
+en qué condiciones parar a la computadora) para ahorrarnos el tener que codear muchas veces algo que se repite y
+cambia en una variable o resultado (ejemplo: imprimir todos los números del 1 al 1000).
+
+operadores lógicos
+
+&& = and, ("y" en español). Lo utilizamos para ejecutar algo cuando se cumplen dos o más cosas/condiciones
+
+|| = or, ("o" en inglés). Lo utilizamos para ejecutar algo cuando se cumple al menos una de todas nuestras condiciones.
+
+! = no, (se escribe igual en español). Lo utilizamos para negar una condición. Cambia de false a true, o de true a false.
