@@ -1,0 +1,2 @@
+Funciones Callback = se puede traducir del inglés al español como "llamar de nuevo/llamar de vuelta". Las funciones
+callbacks se dan cuando tenemos a una función siendo argumento de otra función. Como una cadena de funciones.
