@@ -1,0 +1,6 @@
+prototype = (prototipo en español) es un objeto que se crea a partir de otro objeto. Sirve para poder ponerle alguna
+función que no esté dentro del objeto al cual queremos llamar. De esa manera podemos utilizar una función en distintos
+objetos.
+
+constructors (de Clase) = son como moldes o plantillas que se pueden utilizar para poder crear distintos objetos
+que sean del mismo tipo (misma clase).
